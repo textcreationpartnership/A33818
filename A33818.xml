@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Collection of divers orders &amp; rules heretofore established for the making and passing entries in the custome-house, as well for merchandise, as for goods, from port to port within this nation : published by order of the Commissioners of the Customes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33818</idno>
+            <idno type="STC">Wing C5143</idno>
+            <idno type="STC">ESTC R3166</idno>
+            <idno type="EEBO-CITATION">12267892</idno>
+            <idno type="OCLC">ocm 12267892</idno>
+            <idno type="VID">58121</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58121)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 176:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Collection of divers orders &amp; rules heretofore established for the making and passing entries in the custome-house, as well for merchandise, as for goods, from port to port within this nation : published by order of the Commissioners of the Customes.</title>
+               </titleStmt>
+               <extent>[2], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Blaiklock, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Customs administration --  Law and legislation.</term>
+               <term>Usages of trade --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58121:1"/>
+            <pb facs="tcp:58121:1"/>
+            <p>A COLLECTION OF DIVERS ORDERS &amp; RULES, Heretofore eſtabliſhed for the making and paſſing Entries in the Cuſtome-Houſe, aſwell for Merchandiſe, as for Goods from Port to Port within this Nation.</p>
+            <p>Publiſhed by Order of the Commiſsi<g ref="char:EOLhyphen"/>oners of the <hi>Customes.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Laurence Blaiklock,</hi> and are to be ſold at his ſhop near <hi>Temple-Bar.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:58121:2"/>
+            <pb n="1" facs="tcp:58121:2"/>
+            <head>A Collection of divers Orders and Rules heretofore eſtabliſhed for the making and paſſing En<g ref="char:EOLhyphen"/>tries in the Cuſtome-Houſe, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas certaine reaſon<g ref="char:EOLhyphen"/>able and neceſſary Ar<g ref="char:EOLhyphen"/>ticles, Orders and Di<g ref="char:EOLhyphen"/>rections bearing Date the 27<hi rend="sup">th</hi> Ianuary, in the ſeventh yeare of the late Queen <hi>Elizabeth,</hi> remaining upon Record in the Court of Ex<g ref="char:EOLhyphen"/>chequer, and divers other Rules and Penalties by ſeverall Statutes, Acts and Ordinances of Parliament, have been ſince deviſed and made for the better levying and receiving of the Cu<g ref="char:EOLhyphen"/>ſtomes and Subſidies: The due exe<g ref="char:EOLhyphen"/>cution and practiſe whereof, have been for ſome years paſt much neglected, to
+<pb n="2" facs="tcp:58121:3"/> the great hurt and damage of the Common-wealth, as well in matter of Cuſtome and Subſidy as by the Importation and Exportation of goods prohibited.</p>
+            <p>For prevention whereof, and to the end the ſaid Articles, Orders, and Di<g ref="char:EOLhyphen"/>rections may be hereafter duely obſer<g ref="char:EOLhyphen"/>ved, and put in Execution, for the more regular management of the af<g ref="char:EOLhyphen"/>faires of the Cuſtomes, and that none may pretend ignorance thereof, or unwittingly commit any Offen<g ref="char:EOLhyphen"/>ces contrary thereunto, we the pre<g ref="char:EOLhyphen"/>ſent Commiſſioners of the Cu<g ref="char:EOLhyphen"/>ſtomes, have made a Collection of ſome of the aforeſaid Articles, Or<g ref="char:EOLhyphen"/>ders and Rules, and have cauſed them to be publiſhed in Print, as fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>followeth: viz.</p>
+            <p>The Surveyor, Searcher, or other<note place="margin">Notice of the com<g ref="char:EOLhyphen"/>ming in, and going out of Ships.</note> Officer attending in any Port or Creek, ſhall give knowledge to the
+<pb n="3" facs="tcp:58121:3"/> Collector of the head Port to which they belong (with all convenient ſpeed) of every Ship that commeth in, or goeth out, at any Tide by way of Merchandiſe, or with goods from another Port by Certificate.</p>
+            <p>There ſhall be one Shippers Book<note place="margin">Shippers Books.</note> Outwards, and another Inwards, in every Cuſtome-houſe, wherein e<g ref="char:EOLhyphen"/>very Shipper going out, or comming in by way of Merchandiſe, or with Commodities of this Nation to or from any other Ports by Certificate, ſhall enter openly in the Cuſtome-Houſe the name of the Ship, and of the Maſter, the Burthen, of whence and to, or from what Place it is fraighted, before he take in any La<g ref="char:EOLhyphen"/>ding, or diſcharge any Goods, Wares, or Merchandiſes whatſoever.</p>
+            <p>The Maſter or Purſer of every<note place="margin">Shippers Entry In<g ref="char:EOLhyphen"/>wards.</note> Ship comming in by way of Mer<g ref="char:EOLhyphen"/>chandiſe, ſhall deliver under his hand
+<pb n="4" facs="tcp:58121:4"/> and upon his Oath before the Collector, or Checque, one Bill of the particu<g ref="char:EOLhyphen"/>lars and contents of the whole La<g ref="char:EOLhyphen"/>ding of the Ship, with the Names of the ſeverall Merchants, or the Mar<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, Package and outward form of the Goods and Merchandiſe ac<g ref="char:EOLhyphen"/>cording to his knowledge; And ſhall alſo make Declaration upon Oath, That he hath not broken Bulk ſince he came into the Port, or into any o<g ref="char:EOLhyphen"/>ther Port in this Nation or the Do<g ref="char:EOLhyphen"/>minions thereof, otherwiſe than in the ſaid Bill ſhall be expreſſed; and ſhall anſwer to ſuch other queſtions concerning the Lading of his ſaid Ship, as ſhall be demanded of him by the ſaid Collector, or the Checque. But in caſe he hath broken Bulke in any o<g ref="char:EOLhyphen"/>ther port, Then he ſhal deliver likewiſe upon his Oath the particulars of the goods ſo delivered in the Port, where he firſt did break Bulke; which En<g ref="char:EOLhyphen"/>tries and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eclarations ſo made as a<g ref="char:EOLhyphen"/>foreſaid, ſhall be entred into the Ship<g ref="char:EOLhyphen"/>pers
+<pb n="5" facs="tcp:58121:4"/> Book Inwards after the Ships Entry, and be filed together in Order, and with the Shippers Book ſhall re<g ref="char:EOLhyphen"/>maine and bee kept ſafely in the Cu<g ref="char:EOLhyphen"/>ſtome-Houſe.</p>
+            <p>Every Maſter of a Ship that ſhall<note place="margin">Shippers Entries Outwards.</note> Lade any Goods or Merchandiſe for the part beyond the Seas, ſhall enter his Ship with the Collector and Checque before hee take in any Goods, and before his Departure ſhall give notice of his whole Lading, with the names of the Merchants that have Laden Goods in him, and ſhall an<g ref="char:EOLhyphen"/>ſwer upon Oath to ſuch Queſtions concerning the ſame as ſhall be de<g ref="char:EOLhyphen"/>manded of him, upon paine of the for<g ref="char:EOLhyphen"/>feiture of 100 l.</p>
+            <p>All Maſters or Purſers of Ships<note place="margin">Time al<g ref="char:EOLhyphen"/>lowed for the Entring and diſchar<g ref="char:EOLhyphen"/>ging Ships Inwards.</note> arriving from any forraigne parts, ſhall within foure dayes after their ar<g ref="char:EOLhyphen"/>rivall, make Entry of their Ship or Veſſell in the ſaid Port as aforeſaid,
+<pb n="6" facs="tcp:58121:5"/> and ſhall unlade and diſcharge the ſame with all convenient ſpeed; And if ſuch Ship or Veſſell ſhall not bee fully unladen within thirty dayes after the Entry (unleſſe in caſe of neceſſity appearing to the Col<g ref="char:EOLhyphen"/>lectors) the Owner and Propriator of ſuch goods as ſhall remaine on Board at that time, ſhall beare the charge of ſuch Officers as ſhall con<g ref="char:EOLhyphen"/>tinue on Board: And the Maſter of ſuch Ship or Veſſell reſpectively, combining with the Merchant there<g ref="char:EOLhyphen"/>in, ſhall loſe his Portage.</p>
+            <p>The Maſter of any Ship that<note place="margin">Penalty for a Shipper conſenting to Land or Ship goods.</note> ſhall ſuffer goods to bee Landed or Shipped without payment of Sub<g ref="char:EOLhyphen"/>ſidy and other Duties, or at an unlaw<g ref="char:EOLhyphen"/>full time or place doth forfeit 100 l.</p>
+            <p>No perſon may Lade, or carry any<note place="margin">No Stran<g ref="char:EOLhyphen"/>gers Ships may be im<g ref="char:EOLhyphen"/>ployed from Port to Port.</note> Goods or Merchandiſe from Port to Port within this Nation, in any Ship or Bottome whereof any Stranger is
+<pb n="7" facs="tcp:58121:5"/> Owner, Maſter, or part Owner, up<g ref="char:EOLhyphen"/>on paine of forfeiture of the Goods.</p>
+            <p>Every Merchant, or other, that will<note place="margin">Entries of Merchandiſe Outwards.</note> tranſport any goods by way of Mer<g ref="char:EOLhyphen"/>chandiſe for forraine Ports, ſhall make his Entry particularly thereof, with the Collector and Checque by a bill under his hand, or the hand of his Aſ<g ref="char:EOLhyphen"/>ſigne, with the name of the Ship, the Maſter, the burthen, of whence, and to what place it is fraighted, with the markes and numbers of the Packs, Caske, Fardles, or other bulke, and the true quantity and quality of the goods therein contained; which Bill ſhall be forthwith entred in a Booke by the Collector, and delivered to the Checque to be entred by him likewiſe, and to file and keep the Bill of every Ship toge<g ref="char:EOLhyphen"/>ther as they ſhall be e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tred, and the true value of the goods, and of the Cuſtome, Subſidyes, and duties there<g ref="char:EOLhyphen"/>upon due, ſhall be likewiſe ſet forth, and charged in the Bookes at the time
+<pb n="8" facs="tcp:58121:6"/> the Merchant maketh his Entry.</p>
+            <p>All Goods and Merchandiſe allow<g ref="char:EOLhyphen"/>ed<note place="margin">Store and Portage.</note> for Store, Portage, or proviſion, In<g ref="char:EOLhyphen"/>wards or Outwards, ſhall be valued according to the Booke of Rates (al<g ref="char:EOLhyphen"/>though the ſame neither doth nor ſhall pay any Cuſtome or Subſidy) and ſhall be entred in Bookes di<g ref="char:EOLhyphen"/>ſtinctly and apart by them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>No Entry, nor agreement with any<note place="margin">Entries to be made in the Cuſtom<g ref="char:EOLhyphen"/>houſe.</note> Merchant or others, for Cuſtome or Subſidy, ſhall be made by the Collector or others; nor any Cocquet, Warrant, or Certificat, Sealed or Subſcribed, but openly in the Cuſtome-houſe.</p>
+            <p>The Searcher or Surveyor<note place="margin">Searcher to have the Cocquets &amp; Warrants at the Landing &amp; Shipping of Goods.</note> ſhall have al Cocquets, Certificats, and Warrants delivered unto him before the Shipping or Landing of any goods therein contained, and at the time of the Shipping or Landing
+<pb n="9" facs="tcp:58121:6"/> thereof, ſhall have the ſaid Coc<g ref="char:EOLhyphen"/>que<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, Certificats, and Warrants with them, that the Goods may be thereby examined and tryed.</p>
+            <p>Every Merchant ſhall have his<note place="margin">Particular Cocquets.</note> particular Cocquet, and Certificat by himſelfe, ſealed and ſubſcribed o<g ref="char:EOLhyphen"/>penly in the Cuſtome-houſe, by the Collector and Checque, bearing date the ſame day that he eatred his Goods.</p>
+            <p>All Entries, Inwards or Out<g ref="char:EOLhyphen"/>wards,<note place="margin">Indorſment of Licenſes.</note> by Licenſe, ſhall be indorſed upon each particular Licenſe, with the name of the Merchant, the date of the Cocquet or Entry, and the par<g ref="char:EOLhyphen"/>ticular quantities Shipped or Land<g ref="char:EOLhyphen"/>ed by vertue thereof, ſhall be alſo ſet out and Entred in the Bookes to which they properly belong.</p>
+            <p>All Merchandiſe Cuſtomed Out<g ref="char:EOLhyphen"/>wards<note place="margin">Certificates or Indorſe<g ref="char:EOLhyphen"/>ments of Cocquets.</note> in any Ship or Veſſell,
+<pb n="10" facs="tcp:58121:7"/> which for ſome cauſe cannot be La<g ref="char:EOLhyphen"/>den aboard, the ſame Ship ſhall be appointed to another Ship by Cer<g ref="char:EOLhyphen"/>tificat openly ſealed, ſubſcribed, and delivered in the Cuſtome-houſe, upon the Oaths of the Searcher or Sur<g ref="char:EOLhyphen"/>veyor, and of the Owners thereof, o<g ref="char:EOLhyphen"/>penly taken, that the ſaid Goods did not paſſe according to former Cocquet.</p>
+            <p>Every Merchant or other that will<note place="margin">Entryes Inwards.</note> enter any Merchandiſe inwards, or take up any Goods by ſtore or Por<g ref="char:EOLhyphen"/>tage, ſhall make Entry thereof par<g ref="char:EOLhyphen"/>ticularly, and deliver a Bill thereof at large under his hand or the hand of his Aſſigne, to the Collector, with the name of the Ship, and of the Ma<g ref="char:EOLhyphen"/>ſter, the burthen, of whence, and from what place it was fraighted, with the marks and numbers of the Fardles, Bulk &amp; Package, in the margent, and and the true quantities and qualities of the Goods therein contained. And the ſaid Collector ſhall with all conveni<g ref="char:EOLhyphen"/>ent
+<pb n="11" facs="tcp:58121:7"/> ſpeed caſt up the value of the Goods, and Merchandiſe therein, and the Cuſtomes and Subſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es there<g ref="char:EOLhyphen"/>upon due, and write it upon the ſaid Bill, with the number and date of the Bill, according to which it ſhall be pre<g ref="char:EOLhyphen"/>ſently entred in the Book Inwards, to be kept by the ſaid Collector, and then by him delivered to the Checque, to be likewiſe Entred, according to which Bill, another being ſubſcribed by the ſaid Collector and Checque, and num<g ref="char:EOLhyphen"/>bred and dated as the former ſhall be to the Surveyor<g ref="char:punc">▪</g> Searcher or Waiter, a Waarant to ſuffer the Wares and Merchandiſe therein contained to be Landed and diſcharged according.</p>
+            <p>All manner of Wares that any<note place="margin">Bils at ſight.</note> Merchant entreth at ſight, ſhall be ta<g ref="char:EOLhyphen"/>ken up by a Warrant (ad viſum) Da<g ref="char:EOLhyphen"/>ted the day of the Entry thereof, ſub<g ref="char:EOLhyphen"/>ſcribed and delivered openly in the Cuſtome-houſe to the Searcher or Surveyor, who ſhall ſee the ſame
+<pb n="12" facs="tcp:58121:8"/> brought to the Cuſtome-houſe Key or Wharfe, and give knowledge there<g ref="char:EOLhyphen"/>of to the ſaid Officers, which Offi<g ref="char:EOLhyphen"/>cers ſhall ſuffer the ſaid Goods to be taken up in the preſence of the Survey<g ref="char:EOLhyphen"/>or or Searcher, and veiwed in ſome convenient place; and the Owner thereof ſhall forthwith make an En<g ref="char:EOLhyphen"/>try thereof particularly under his hand, or the hand of his aſſigne, with the Collector and Checque, and there<g ref="char:EOLhyphen"/>upon a warrant ſhall be made for the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>learing and paſſing of the ſaid wares as above ſaid.</p>
+            <p>In every Port where more then<note place="margin">Waiters to be appoint<g ref="char:EOLhyphen"/>ed by the Collector.</note> one (whether Searcher, Surveyor, or Waiters) are appointed to attend, There the Collector of the ſame Port ſhall nominate, and direct under his hand which and how many of them ſhall take charge of every reſpective Ship, going forth or coming into the ſame Port, either from beyond Sea, or from any other Port within this Na<g ref="char:EOLhyphen"/>tion,
+<pb n="13" facs="tcp:58121:8"/> to ſee the Goods and Merchan<g ref="char:EOLhyphen"/>diſe therein cleared and diſcharged, ac<g ref="char:EOLhyphen"/>cording to ſuch warrants as he or they ſhall receive from the Collector and Checque.</p>
+            <p>Every Merchant Stranger that en<g ref="char:EOLhyphen"/>treth<note place="margin">Bonds of imployment</note> any Merchandiſe brought from beyond Seas, ſhall enter into Bond with the Collector, for imployment to be made according to the Statute.</p>
+            <p>Every Searcher or Surveyor<note place="margin">Searchers &amp; Surveyors Book.</note> ſhall enter in a Booke the day of the going out and comming in of eve<g ref="char:EOLhyphen"/>ry Ship, by way of Merchandiſe, or by Certificat from another Port, with the name of the Ship and Maſter, and the Date of every mans Cocquet, warrant and Certificat, as they in order of the dayes of every month<note place="margin">Wharfingers Crane-keep<g ref="char:EOLhyphen"/>ers, or Offi<g ref="char:EOLhyphen"/>cers conſen<g ref="char:EOLhyphen"/>ting to fraud in matters of Cuſtome.</note> ſhall fall out.</p>
+            <p>If any Wharfinger, Crane keeper, Searcher, Lighterman, Waiter or
+<pb n="14" facs="tcp:58121:9"/> other Officer, doe conſent or know of any Goods ſhipped or landed without payment of Subſidy, &amp;c. or at an un<g ref="char:EOLhyphen"/>lawfull place, or an unlawfull time, and doe not diſcloſe the ſame within one moneth after he ſhall forfeit 100 l.</p>
+            <p>Every Officer that maketh any<note place="margin">Falſe Coc<g ref="char:EOLhyphen"/>quets and Warrants.</note> Cocquet or warrant contrary, or diſa<g ref="char:EOLhyphen"/>greeing to the Entry of any Goods or Merchandiſe, ſhall be fined and puni<g ref="char:EOLhyphen"/>ſhed according to his Offence.</p>
+            <p>Every Merchant, Engliſh or Stran<g ref="char:EOLhyphen"/>ger,<note place="margin">Entring Strangers Goods in an Engliſh mans name.</note> That ſhall enter the Goods of a Stranger in the name of an Engliſh<g ref="char:EOLhyphen"/>man, ſhall forfeit and loſe the Goods and Merchandiſe ſo entred, and all his Goods perſonall.</p>
+            <p>Engliſh men Inhabiting beyond<note place="margin">Engliſh men inhabiting beyond Sea.</note> Sea, and ſworne Subjects to forraine Princes, are to pay Cuſtomes and o<g ref="char:EOLhyphen"/>ther duties, as Strangers, ſo long as they ſo continue.</p>
+            <pb n="15" facs="tcp:58121:9"/>
+            <p>Every one borne out of the Nation,<note place="margin">Denizens.</note> and after made Denizen, ſhall pay like Cuſtoms as before he was made deni<g ref="char:EOLhyphen"/>zen, except Merchants of the Stillyard.</p>
+            <p>If any Searcher ſhall give way to<note place="margin">Connivence of the Sear<g ref="char:EOLhyphen"/>cher.</note> the tranſportation of money or un<g ref="char:EOLhyphen"/>lawfull paſſingers, he ſhall loſe his place, and all his goods, and ſuffer one yeares impriſonment.</p>
+            <p>All Officers whom it concernes<note place="margin">Seiſures.</note> in their reſpective places, ſhall be dili<g ref="char:EOLhyphen"/>gent and carefull to make ſtay, and ſeiſure of Goods, Wares and Mer<g ref="char:EOLhyphen"/>chandiſe, that ſhall be brought in or carried out, or intended to be carried out of this Nation, or the Dominions thereof, contrary to the Lawes, or any Act or Ordinance of Parliament.</p>
+            <p>All Goods and Merchandiſe that<note place="margin">The cuſtody of Seiſures.</note> ſhall be ſeiſed or ſtayed as aforeſaid, ſhall preſently after ſuch ſeiſure or ſtay be delivered into the charge and
+<pb n="16" facs="tcp:58121:10"/> Cuſtody of the Commiſſioners of the Cuſtomes for the time being, or of the Collector in the Port where ſuch ſei<g ref="char:EOLhyphen"/>ſure or ſtay ſhall be made, there to re<g ref="char:EOLhyphen"/>maine untill a ſufficient warrant and diſcharge (aſwell in reſpect of the Cu<g ref="char:EOLhyphen"/>ſtome and Subſidy, as of the ſeiſure and forfeiture) ſhall be brought for re<g ref="char:EOLhyphen"/>leaſe and delivery thereof.</p>
+            <p>A Note in writing of all and every<note place="margin">The Regi<g ref="char:EOLhyphen"/>ſter for Sei<g ref="char:EOLhyphen"/>ſures.</note> ſeiſure and ſtay of Goods, and of all ſutes and Informations, for or con<g ref="char:EOLhyphen"/>cerning the Importation, or Exporta<g ref="char:EOLhyphen"/>tion of Goods prohibited or uncuſto<g ref="char:EOLhyphen"/>med ſhall be forthwith by the party that doth ſeize or proſecute the ſame, delivered to the Regiſter for ſeiſures and forfeitures for the time being, reſi<g ref="char:EOLhyphen"/>dent at the Cuſtome-houſe, in the Port of London; The ſaid Regiſter ta<g ref="char:EOLhyphen"/>king no fee or recompence for the en<g ref="char:EOLhyphen"/>tring thereof.</p>
+            <p>No Officer or other perſon, ſhall<note place="margin">No Com<g ref="char:EOLhyphen"/>poſition without Seiſure.</note>
+               <pb n="17" facs="tcp:58121:10"/> make compoſition or agreement for the ſeiſure or forfeiture of any Goods prohibited or uncuſtomed, without Li<g ref="char:EOLhyphen"/>cenſe out of the Court of Exchequer, or other lawfull Warrant firſt had and obtained by the Offendor, upon the paines and penalties by the Lawes in that behalfe made and provided.</p>
+            <p>All Compoſitions, Fines, Recove<g ref="char:EOLhyphen"/>ries;<note place="margin">The moye<g ref="char:EOLhyphen"/>ty of Seiſure to be paid before the Goods be releaſed.</note> Warrants, Orders, and other diſcharges to be had, made, or grant<g ref="char:EOLhyphen"/>ed, for, or upon the aforeſaid ſeiſures and informations be entred in the Re<g ref="char:EOLhyphen"/>giſter aforeſaid, and the monyes ther<g ref="char:EOLhyphen"/>upon due and payable, be ſatiſfied and paid to the Commiſſioners of the Cu<g ref="char:EOLhyphen"/>ſtomes, for the uſe of the Navy, before the reſpective Goods therein concer<g ref="char:EOLhyphen"/>ned be releaſed or delivered.</p>
+            <p>All Appraiſments of Goods,<note place="margin">Appraiſe<g ref="char:EOLhyphen"/>ments.</note> Wares and Merchandiſe ſeiſed as a<g ref="char:EOLhyphen"/>foreſaid, be ſhewed and delivered to the
+<pb n="18" facs="tcp:58121:11"/> Regiſter aforeſaid, before they be re<g ref="char:EOLhyphen"/>turned into the Cxchequer to be by him examined and entred, and if the Goods be to much undervalued, the ſaid Regiſter is to make ſtay thereof, and to acquaint ſome of the Barons of the Exchequer therewith, to the end that a review, and new appraiſement may be made of the Goods.</p>
+            <p>Every Merchant that carieth any<note place="margin">Coaſt Coc<g ref="char:EOLhyphen"/>quets for forraigne Goods.</note> forraine Goods or Merchandiſe, from the Port where they were firſt entred to another Port by water or by Land, ſhall bring a Certificat from the Col<g ref="char:EOLhyphen"/>lector of the Port where they were firſt entred, teſtifying the payment of the Cuſtome, with the true quantity and quality of the Goods, and ſhall not dicharge his Goods before he deli<g ref="char:EOLhyphen"/>ver his Certificat to the Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lector of the Port to which the Goods ſhall be brought, upon paine of forfeiture of the ſaid Goods, And if the Certifi<g ref="char:EOLhyphen"/>cat be not made according to the firſt
+<pb n="19" facs="tcp:58121:11"/> Entry, the Collector ſhall loſe his place.</p>
+            <p>Every perſon or perſons, that will<note place="margin">Engliſh Goods Cu<g ref="char:EOLhyphen"/>ſtomable or prohibited.</note> Ship or carry any Goods or Merchan<g ref="char:EOLhyphen"/>diſe (prohibited, or whereof any the du<g ref="char:EOLhyphen"/>ties of Cuſtome or Subſidy are paya<g ref="char:EOLhyphen"/>ble) to diſcharge the ſame in any other Port or place within this Nation, ſhall before the Shipping thereof de<g ref="char:EOLhyphen"/>clare, and manifeſt under his or their hands, to the Collector and Checque of the Cuſtomes, in the Port where the ſame ſhall be Shipped, in the open Cuſtome-houſe, the nature, Length, number, and other contents, and the value of ſuch Goods, together with the name of the Ship, and of the Ma<g ref="char:EOLhyphen"/>ſter, the place of whence, and for which he is fraighted, &amp; with the approbation of the ſaid Collector and Checque ſhall alſo make &amp; enter into a ſufficient obli<g ref="char:EOLhyphen"/>gation<note place="margin">Bond.</note> in the Law, in which he ſhall be bound with ſufficient ſureties, in ſuch ſum of money as ſhall amount
+<pb n="20" facs="tcp:58121:12"/> to double the value of the Goods ſo declared, and manifeſted, with con<g ref="char:EOLhyphen"/>dition that the ſame ſhall be diſcharg<g ref="char:EOLhyphen"/>ed at ſome Port or Creek within this Nation, and in no other Place. And in caſe any of the ſaid Goods or Mer<g ref="char:EOLhyphen"/>chandiſe, ſhall be Shipped or Laden in any Ship or other Veſſell, to be carry<g ref="char:EOLhyphen"/>ed or paſſed between Port and Port as aforeſaid, before ſuch Declarations ſhall be made, and ſecurity given as aforeſaid,</p>
+            <p>That then all and every the ſaid<note place="margin">The forfei<g ref="char:EOLhyphen"/>ture of the Goods.</note> Goods and Merchandiſe, ſhall be for<g ref="char:EOLhyphen"/>feited and loſt, the one moyety or the value therof to be to him or them that will ſeize or ſue for the ſame, and the other moyety or value thereof, or the Fine or Compoſition for the ſame to be paid to the Commiſſioners, and Collectors of the Cuſtomes, for the time being, for the uſe of the Navy.</p>
+            <p>That every perſon or perſons, that<note place="margin">Returne within four moneths.</note>
+               <pb n="21" facs="tcp:58121:12"/> ſhall Ship ſuch Goods, and ſhall be bound as aforeſaid, ſhall within four monthes next after the Shipping thereof, bring a true Certificat from the Port or Place, where he or they ſhall diſcharge the ſaid Goods, teſtify<g ref="char:EOLhyphen"/>ing that the ſame Goods ſo Shipped, and the true nature, Length, Weight, Number, and other contents or value thereof is there diſcharged, which Certificat ſhall upon diſcharge of the Goods be delivered to the Party diſ<g ref="char:EOLhyphen"/>charging the ſame without delay.</p>
+            <p>All and every the ſaid Bonds<g ref="char:punc">▪</g> for<note place="margin">Bonds to be delivered into the Ex<g ref="char:EOLhyphen"/>chequer and redelivered to the par<g ref="char:EOLhyphen"/>ties.</note> which Certificats are returned, ſhall be delivered halfe yearely into the Ex<g ref="char:EOLhyphen"/>chequer, with the Certificats therunto annexed, and indorſed alſo thereupon, And every Eaſter Terme after the accompt of the Officers that did take them is paſt, The ſaid Bonds ſhall be delivered to every perſon that will ſue for the ſame, paying onely twelve pence, for the delivery thereof, to the
+<pb n="22" facs="tcp:58121:13"/> Officer that hath the Cuſtodie of them.</p>
+            <p>All other of the ſaid Bonds that be expired, and no Certificat returned ac<g ref="char:EOLhyphen"/>cording to the conditions, ſhall be de<g ref="char:EOLhyphen"/>livered into the Exchequer halfe year<g ref="char:EOLhyphen"/>ly, that execution may be had thereup<g ref="char:EOLhyphen"/>on.<note place="margin">Forfeited Bonds.</note>
+            </p>
+            <p>Every perſon that bringeth any Goods, Wares or Merchandiſe, from any Port within this Nation, into a<g ref="char:EOLhyphen"/>nother Port within the ſame, by Cer<g ref="char:EOLhyphen"/>tificat, ſhall make Entry thereof un<g ref="char:EOLhyphen"/>der his hand, and ſhall bring his Cer<g ref="char:EOLhyphen"/>tificat to the Commiſſioners or Col<g ref="char:EOLhyphen"/>lectors of the Subſidy in the reſpective Ports, which Commiſſioners, Col<g ref="char:EOLhyphen"/>lectors, or their Subſtitutes, ſhall make a Warrant at large, to the Waiters or Searchers to ſuffer the ſame Goods, Wares and Merchandiſe, to be taken up acording to the Entry and Certifi<g ref="char:EOLhyphen"/>cat.</p>
+            <pb n="23" facs="tcp:58121:13"/>
+            <p>
+               <hi>In the pasſing of Goods from Port to</hi>
+               <note place="margin">Goods Cu<g ref="char:EOLhyphen"/>ſtomable.</note> 
+               <hi>Port within this Nation, the Collectors and other Officers are to underſtand by Goods Cuſtomable, All Wares and Com<g ref="char:EOLhyphen"/>modities growing, wrought or manu<g ref="char:EOLhyphen"/>factured within this Nation; and all for<g ref="char:EOLhyphen"/>raigne Commodities and Merchandiſes, which have been imported and remained in this Nation (<hi>viz</hi>) by an Engliſh man above twelve months, and by a Stranger above nine months, and the property al<g ref="char:EOLhyphen"/>tred, by the Sale thereof made by the firſt Importer.</hi>
+            </p>
+            <p>
+               <hi>And by Goods prohibited to bee ex<g ref="char:EOLhyphen"/>ported,</hi>
+               <note place="margin">Goods pro<g ref="char:EOLhyphen"/>hibited out<g ref="char:EOLhyphen"/>wards.</note> 
+               <hi>Moneys, Bullion, Plate, Iew<g ref="char:EOLhyphen"/>ells, Woollen yarne, and Cloath undreſt, Horſes, Mares, Oxen, Kine, Sheep, Cop<g ref="char:EOLhyphen"/>per, Braſſe, Bell metall, Panne metall, Gun metall, ſhruffe, White Aſhes, But<g ref="char:EOLhyphen"/>ter, Cheeſe, Wood, and Corne (when it is above the price limited by Statute) Alſo Leather, Hides, Tallow, and all things made thereof, Skins of Sheep or</hi>
+            </p>
+            <pb n="24" facs="tcp:58121:14"/>
+            <p>
+               <hi>Pelts, and of Stag, Hind, Buck, Doe or Fawne, Goat or Kidd, Wooll, Worſted Yarne Woollen Flock, Woollfells, Fullars Farth, and Clay of what kind ſoever.</hi>
+            </p>
+            <p>
+               <hi>It is further to be noted, That by Grocery and Saltery wares is meant for<g ref="char:EOLhyphen"/>raigne Commodities onely, which have been formerly brought from beyond the Seas, and the duties paid Inwards, and that no Merchandiſe or manufactures, of England or Wales, are to paſſe under thoſe generall names.</hi>
+            </p>
+            <p>The Collectors and other Officers of the Cuſtomes, are likewiſe diligent<g ref="char:EOLhyphen"/>ly to obſerve and performe the Arti<g ref="char:EOLhyphen"/>cles, Rules and directions annexed to the preſent Book of Rates, and ſuch others as are directed by any Ordi<g ref="char:EOLhyphen"/>nance of Parliament publiſhed 16 De: 1647. or by a late Act made for the Raiſing and Levying of Money, by way of Exciſe; or by any other Sta<g ref="char:EOLhyphen"/>tute
+<pb n="25" facs="tcp:58121:14"/> Act or Ordinance of Parliament, now in force for or concerning the pay<g ref="char:EOLhyphen"/>ment of the Subſidy of Tomage and Poundage, or the importation or exportation of Goods prohibited.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
